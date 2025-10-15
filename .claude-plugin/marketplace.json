@@ -16,7 +16,7 @@
         "name": "snarktank",
         "email": "github@snarktank"
       },
-      "source": "plugins/ai-dev-tasks",
+      "source": "./plugins/ai-dev-tasks",
       "category": "development"
     }
   ]
