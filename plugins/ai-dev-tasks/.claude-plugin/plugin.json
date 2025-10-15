@@ -1,0 +1,10 @@
+{
+  "name": "ai-dev-tasks",
+  "version": "1.0.0",
+  "description": "Comprehensive feature development workflow with PRD creation, task generation, and task processing commands",
+  "author": {
+    "name": "snarktank",
+    "email": "github@snarktank"
+  },
+  "category": "development"
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-dev-tasks-marketplace",
+  "version": "1.0.0",
+  "description": "Structured feature development workflow with PRD creation, task generation, and iterative implementation",
+  "owner": {
+    "name": "snarktank",
+    "email": "github@snarktank"
+  },
+  "plugins": [
+    {
+      "name": "ai-dev-tasks",
+      "description": "Comprehensive feature development workflow with PRD creation, task generation, and task processing commands",
+      "version": "1.0.0",
+      "author": {
+        "name": "snarktank",
+        "email": "github@snarktank"
+      },
+      "source": "plugins/ai-dev-tasks",
+      "category": "development"
+    }
+  ]
+}
